@@ -51,6 +51,7 @@ body {
     font-weight: bold;
     align-items: center;
     font-size: 13px;
+    position:fixed;
 }
 
 .heading img {
@@ -107,7 +108,7 @@ body {
     gap: 8px;
     flex-wrap: wrap;
     overflow-y: auto;
-    max-height: 90vh;
+    max-height: 60vh;
     padding-bottom: 140px;
 }
 
